@@ -1,0 +1,12 @@
+.heroImg {
+  background-size: cover, cover;
+  background-position: center, center;
+}
+
+.heroImg.heroImg1 {
+  background-image: url('/images/burger.webp');
+}
+
+.heroImg.heroImg2 {
+  background-image: url('/images/pizza.webp');
+}

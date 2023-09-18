@@ -1,0 +1,24 @@
+/* do not make this file .module.css */
+.swiper-slide {
+  width: auto;
+}
+.swiper-dimmed .swiper-slide:not(.swiper-slide-active) {
+  opacity: 0.4;
+}
+/* Pagination css */
+.swiper-pagination {
+  height: 30px;
+  display: flex;
+  margin-top: 56px;
+  justify-content: center;
+}
+.swiper-pagination-bullet {
+  width: 8px;
+  height: 8px;
+  margin-right: 6px;
+  border-radius: 50%;
+  background: rgba(0, 0, 0, 0.2);
+}
+.swiper-pagination-bullet-active {
+  background: #321b3c;
+}
