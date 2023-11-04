@@ -32,7 +32,7 @@
   "devDependencies": {
     "@types/react-dom": "^17.0.14",
     "@types/react-helmet": "^6.1.6",
-    "autoprefixer": "^10.4.13",
+    "autoprefixer": "^10.4.16",
     "gatsby-plugin-postcss": "^5.11.0",
     "gatsby-plugin-typescript": "^4.11.1",
     "gatsby-plugin-typescript-checker": "^1.1.1",
